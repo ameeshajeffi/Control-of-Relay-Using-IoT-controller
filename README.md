@@ -1,5 +1,7 @@
+## EXP 2
 # Control-of-Relay-Using-IoT-controller
-
+# Name:Ameesha Jeffi 
+# Reg no:212223220007
 ##  AIM:
 To control the Relay using Arduino controller
 
