@@ -1,5 +1,5 @@
 ## EXP 2
-# Control-of-Relay-Using-IoT-controller
+# Control of Relay Using IoT controller
 # Name:Ameesha Jeffi 
 # Reg no:212223220007
 ##  AIM:
